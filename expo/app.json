@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Scripture-Application",
+    "slug": "Scripture-Application",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
